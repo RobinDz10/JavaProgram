@@ -1,0 +1,8 @@
+Created on 27/4/2022 at 0243
+M 0800 1700 (Catherine G) (Amanda S) (Kenneth W)
+T 0800 1700 (Amanda S) (Lisa R) (Jack S)
+W 0800 1700 (Anthony M) (Jack S) (Wanda F)
+TR 0800 1700 (Lisa R) (Wanda F)
+F 0800 1700 (Catherine G) (Earl E) (Kenneth W)
+SAT 0900 2130 (Jason H) (Earl E) (Carolyn P)
+SUN 0900 2130 (Jason H) (Carolyn P) (Anthony M)

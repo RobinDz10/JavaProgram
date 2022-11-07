@@ -1,0 +1,37 @@
+a.
+
+1. 7.8 == 78		type: boolean	value: false
+2. 2.3 + 5 * 7.01	type: double	value: 37.349999999999994
+3. N * 4		type: int	value: 312
+4. 9 + 8 + "21"		type: String	value: 1721
+
+
+
+
+
+b.
+
+1.
+9.78
+9
+9
+18.78
+99.78
+
+2.
+007
+
+3.
+BeeBeeBee
+
+After my test, I find out that all my predictions are right.
+
+
+
+
+
+c.
+Strings are immutable in Java. For example, in some programming languages, like C++, strings are mutable, which means we can change chars in the original string by finding the 
+corresponding index, and then assign a new char value to it. However, in Java, Strings are objects, which means they have been protected and not be able to get modified.
+If I have to manipulate a string in java, I will break the original string into parts, even into single characters, and after I finish dealing with single characters, I can combine 
+these parts together, and make a new string to store the revised values.
